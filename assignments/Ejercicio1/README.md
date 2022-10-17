@@ -37,7 +37,18 @@ Múltiplos de: 5
 [5, 20, 100]       
 [8, 21, 36]
 ```
-.
+
+## Ejemplo 2 de ejecución del programa
+```
+Ingresa números positivos, para terminar de capturar ingresa un negativo
+>>> 5
+>>> 8
+>>> 21
+>>> -1
+[5, 8, 21]
+Múltiplos de: -2
+Error
+```
 
 
 **Nota:** No cambies ni quites el código `if __name__ == '__main__':` 
