@@ -33,7 +33,7 @@ Ingresa números positivos, para terminar de capturar ingresa un negativo
 >>> 100
 >>> -1
 [5, 8, 21, 20, 36, 100]
-Múltiplos de: s
+Múltiplos de: 5
 [5, 20, 100]       
 [8, 21, 36]
 ```
